@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - paul64bit
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 - Apr12 - as good of a start day as any
+Made a responsive cardbased design, added some expading funtionality. Will need to switch to proper modal, but later. Next, need to add menu, some design variations. Still next need to take care of server, domains. But first need to massage the design into php, and build some storage backend for it.
 
 ### R1D2
