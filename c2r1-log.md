@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Challenge 2 Round 1 - paul64bit
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
-This one focuses on practicing by coding the tutorials and the ull projects.
+The log of my #100DaysOfCode challenge. Started on [May 17, Wednesday, 2023].
+This one focuses on practicing by coding the tutorials and the full projects.
 
 ## Log
 
