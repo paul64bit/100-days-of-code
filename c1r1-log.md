@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Challenge 1 Round 1 - paul64bit
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [April 12, Wendesday, 2023].
 
 ## Log
 
