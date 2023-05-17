@@ -6,7 +6,7 @@ This one focuses on practicing by coding the tutorials and the ull projects.
 ## Log
 
 ### C2R1D1 - May17 - as good of a start day as any
-Build An HTML5 Website With A Responsive Layout [Wm6CUkswsNw].mp4 
+Build An HTML5 Website With A Responsive Layout 
 - FLOAT - is the king it allows to position vertical elements elements into the horizontal,a nice alternative to FLEXBOX etc
 - Use of UL for navigation
 - use of SECTION, SPAN, FOOTER, ASIDE, UL 
